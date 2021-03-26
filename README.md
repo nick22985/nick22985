@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://img.shields.io/github/followers/nick22985?style=social
 <a href="https://codesandbox.io/u/nick22985">
   <img align="left" alt="nick22985 | CodeSandbox" width="20px" src="" />
 </a>
