@@ -8,6 +8,7 @@
         <img align="left" alt="Nick's Discord" width="21px" src="./assets/social/discord-round.png" />
     </a>
 </div>
+<br>
 <details open="true">
     <summary>Languages & Tools:</h4></summary>
     <table>
