@@ -9,6 +9,7 @@
     </a>
 </div>
 <br>
+<br>
 <details open="true">
     <summary>Languages & Tools:</h4></summary>
     <table>
