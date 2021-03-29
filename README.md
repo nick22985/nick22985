@@ -5,12 +5,6 @@
 - 🌱 I’m currently learning asp.net core Blazor
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nick22985&count_private=true&show_icons=true&theme=tokyonight" alt="Nick's github stats" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick22985&layout=compact&theme=tokyonight" alt="Nick's Most Used Languages" />
-</a>
 
 ## <h4>Social Media:</h4>
 <div>
@@ -22,7 +16,7 @@
     </a>
 </div>
 
-<br>
+<br/>
 <div>
     <details open="true">
         <summary>Languages & Tools:</h4></summary>
@@ -142,6 +136,14 @@
         </table>
     </details>
 </div>
+
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nick22985&count_private=true&show_icons=true&theme=tokyonight" alt="Nick's github stats" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick22985&layout=compact&theme=tokyonight" alt="Nick's Most Used Languages" />
+</a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick22985&theme=tokyonight" alt="Wakatime Stats" />
 </a>
