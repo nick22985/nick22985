@@ -8,10 +8,8 @@
         <img align="left" alt="Nick's Discord" width="21px" src="./assets/social/discord-round.png" />
     </a>
 </div>
-
-## <h4> Languages & Tools: </h4>
 <details open="true">
-<summary>Languages & Tools:</summary>
+    <summary>Languages & Tools:</h4></summary>
     <table>
         <tr>
             <td align="center" width="96">
