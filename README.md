@@ -76,3 +76,8 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick22985&theme=tokyonight" alt="Wakatime Stats" />
 </a>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
+</p>
