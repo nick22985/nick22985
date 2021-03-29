@@ -1,4 +1,14 @@
-### Hi there👋
+### Hi There 👋 How are you?
+
+## <h4>About Me</h4>
+- 🔭 I’m currently working on Discord Bots, Mobile Applications, Blazor web app
+- 🌱 I’m currently learning asp.net core Blazor
+- 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nick22985&count_private=true&show_icons=true&theme=tokyonight" alt="Nick's github stats" />
+</a>
+
 ## <h4>Social Media:</h4>
 <div>
     <a href="https://twitter.com/nick22985">
@@ -8,7 +18,7 @@
         <img align="left" alt="Nick's Discord" width="21px" src="./assets/social/discord-round.png" />
     </a>
 </div>
-<p></p>
+
 <br>
 <div>
     <details open="true">
@@ -129,9 +139,6 @@
         </table>
     </details>
 </div>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nick22985&count_private=true&show_icons=true&theme=tokyonight" alt="Nick's github stats" />
-</a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick22985&layout=compact&theme=tokyonight" alt="Nick's Most Used Languages" />
 </a>
