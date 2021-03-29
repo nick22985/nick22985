@@ -8,6 +8,7 @@
         <img align="left" alt="Nick's Discord" width="21px" src="./assets/social/discord-round.png" />
     </a>
 </div>
+<p></p>
 <br>
 <div>
     <details open="true">
