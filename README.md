@@ -14,6 +14,9 @@
     <a href="https://discord.gg/https://discord.gg/KBqCreaN6n" >
         <img align="left" alt="Nick's Discord" width="21px" src="./assets/social/discord-round.png" />
     </a>
+        <a href="https://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw" >
+        <img align="left" alt="Youtube" width="21px" src="./assets/social/YouTube.png" />
+    </a>
 </div>
 <br>
 <hr/>
