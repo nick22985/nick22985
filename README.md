@@ -30,7 +30,6 @@
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat-square&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat-square&logo=rest&logoColor=white)&nbsp;
@@ -65,6 +64,7 @@
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat-square&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat-square&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat-square&logo=adobe-illustrator&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)&nbsp;
 </details>
 
 <a href="">
