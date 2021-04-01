@@ -37,12 +37,14 @@
 ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat-square&logo=graphql&logoColor=white)
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat-square&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=visual-studio)
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat-square&logo=intellij-idea)
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat-square&logo=nginx&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-3776AB.svg?&style=flat-square&logo=C&logoColor=white)
+![CSHARP](https://img.shields.io/badge/C%20Sharp-239120.svg?&style=flat-square&logo=C-Sharp&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
@@ -79,6 +81,7 @@
 </a>
 
 <p align="right">
+<img src="https://www.codewars.com/users/nick22985/badges/micro"/>
 <img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
 </p>
