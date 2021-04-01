@@ -30,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/SGITLAB-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat-square&logo=rest&logoColor=white)
