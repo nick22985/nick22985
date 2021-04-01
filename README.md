@@ -60,6 +60,7 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?&style=flat-square&logo=npm&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B.svg?&style=flat-square&logo=wordpress&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat-square&logo=Blazor&logoColor=white)
 </details>
 <details open="true">
 <summary>Other Knowledge, always learning</summary>
