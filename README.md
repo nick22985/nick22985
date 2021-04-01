@@ -30,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/SGITLAB-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat-square&logo=rest&logoColor=white)
@@ -55,6 +55,11 @@
 ![Adobe Creative Clous](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?&style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=flat-square&logo=Adobe-XD&logoColor=black)
 ![.NET](https://img.shields.io/badge/.Net-5128D4.svg?&style=flat-square&logo=.NET&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?&style=flat-square&logo=WooCommerce&logoColor=white)
+![NODERED](https://img.shields.io/badge/node%20red-8F0000.svg?&style=flat-square&logo=node-red&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?&style=flat-square&logo=npm&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B.svg?&style=flat-square&logo=wordpress&logoColor=white)
 </details>
 <details open="true">
 <summary>Other Knowledge, always learning</summary>
