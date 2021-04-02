@@ -55,6 +55,12 @@
 ![Adobe Creative Clous](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?&style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=flat-square&logo=Adobe-XD&logoColor=black)
 ![.NET](https://img.shields.io/badge/.Net-5128D4.svg?&style=flat-square&logo=.NET&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A.svg?&style=flat-square&logo=WooCommerce&logoColor=white)
+![NODERED](https://img.shields.io/badge/node%20red-8F0000.svg?&style=flat-square&logo=node-red&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?&style=flat-square&logo=npm&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B.svg?&style=flat-square&logo=wordpress&logoColor=white)
+
 </details>
 <details open="true">
 <summary>Other Knowledge, always learning</summary>
@@ -68,6 +74,7 @@
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat-square&logo=Blazor&logoColor=white)
 </details>
 
 <a href="">
