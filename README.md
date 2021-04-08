@@ -41,7 +41,6 @@
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat-square&logo=intellij-idea)
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat-square&logo=nginx&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-3776AB.svg?&style=flat-square&logo=C&logoColor=white)
 ![CSHARP](https://img.shields.io/badge/C%20Sharp-239120.svg?&style=flat-square&logo=C-Sharp&logoColor=white)
@@ -75,6 +74,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat-square&logo=Blazor&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
 </details>
 
 <a href="">
