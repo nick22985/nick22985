@@ -86,10 +86,9 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick22985&theme=tokyonight" alt="Wakatime Stats" />
 </a>
-
-<p align="right">
 <img src="https://tryhackme-badges.s3.amazonaws.com/nick22985.png" alt="TryHackMe"/>
+<p align="right">
 <img src="https://www.codewars.com/users/nick22985/badges/micro"/>
-<img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"/>
 <img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
 </p>
