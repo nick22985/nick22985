@@ -86,7 +86,7 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick22985&theme=tokyonight" alt="Wakatime Stats" />
 </a>
-<script src="https://tryhackme.com/badge/461289"></script>
+
 <p align="right">
 <img src="https://www.codewars.com/users/nick22985/badges/micro"/>
 <img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"/>
