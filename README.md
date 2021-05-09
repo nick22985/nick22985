@@ -88,6 +88,7 @@
 </a>
 
 <p align="right">
+<script src="https://tryhackme.com/badge/461289"></script>
 <img src="https://www.codewars.com/users/nick22985/badges/micro"/>
 <img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
