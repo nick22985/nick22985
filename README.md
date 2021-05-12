@@ -88,7 +88,8 @@
 </a>
 
 <p align="right">
-<img src="https://www.codewars.com/users/nick22985/badges/micro"/>
-<img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"/>
-<img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nick22985.png"/>
+    <img src="https://www.codewars.com/users/nick22985/badges/micro"/>
+    <img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"/>
+    <img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
 </p>
