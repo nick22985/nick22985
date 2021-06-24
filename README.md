@@ -62,7 +62,7 @@
 
 </details>
 <details open="true">
-<summary>Other Knowledge, always learning</summary>
+<summary>Learning</summary>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
