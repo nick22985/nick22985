@@ -1,7 +1,7 @@
 ### Hi There 👋 How are you?
 
 ## <h4>About Me</h4>
-- 🔭 I’m currently working on Discord Bots, Mobile Applications, Blazor web app
+- 🔭 I’m currently working on Discord Bots, Chef App - Mobile Applications, Electron Node JS
 - 🌱 I’m currently learning asp.net core Blazor
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
