@@ -75,6 +75,8 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat-square&logo=Blazor&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.JS-47A248.svg?&style=flat-square&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify.JS-47A248.svg?&style=flat-square&logo=vuetify.js&logoColor=white)
 </details>
 
 <a href="">
