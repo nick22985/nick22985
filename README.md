@@ -85,6 +85,7 @@
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick22985&layout=compact&theme=tokyonight" alt="Nick's Most Used Languages" />
 </a>
+<pThis does not indicate how skilled in each language I am just how long I have been coding in it since installing WakaTime</>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick22985&theme=tokyonight" alt="Wakatime Stats" />
 </a>
