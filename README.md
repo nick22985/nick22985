@@ -18,8 +18,7 @@
         <img align="left" alt="Youtube" width="21px" src="./assets/social/YouTube.png" />
     </a>
 </div>
-
-
+<br>
 ## <h4>Skills</h4>
 <hr/>
 <h4>Languages & Frameworks & Tools & Abilities </h4>
