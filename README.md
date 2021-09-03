@@ -21,7 +21,7 @@
 <br>
 <hr/>
 
-## <h4>Skills</h4>
+<h4>Skills</h4>
 
 <h4>Languages & Frameworks & Tools & Abilities </h4>
 <details open="true">
