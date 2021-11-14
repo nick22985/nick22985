@@ -179,9 +179,9 @@ C#                       1 repo              █░░░░░░░░░░�
  Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 </details>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/nick22985.png" alt="TryHackMe">
-
+<p align="right">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nick22985.png" alt="TryHackMe">
+</p>
 <p align="right">
     <img src="https://www.codewars.com/users/nick22985/badges/micro"/>
     <img src="https://wakatime.com/badge/user/06ef56ec-e763-432c-a1cc-83e10de5b5a3.svg"/>
