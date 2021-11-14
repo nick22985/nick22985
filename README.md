@@ -181,7 +181,7 @@ C#                       1 repo              █░░░░░░░░░░�
 </details>
     
 <p align="right">
-    [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+     <img src="https://wakatime.com/badge/user/06ef56ec-e763-432c-a1cc-83e10de5b5a3.svg"/>
     <img src="https://www.codewars.com/users/nick22985/badges/micro"/>
     <img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"/>
     <img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
