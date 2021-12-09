@@ -85,7 +85,7 @@
 <details open="false">
 <summary>More Stats</summary>
     
-<!--START_SECTION:waka-->
+<!--START_SECTION:devStats-->
 > 🏆 881 Contributions in the Year of 2021
 >
 > 📦 299.54 KB Used in GitHub's Storage
@@ -149,7 +149,7 @@ SortTrelloData            1 hr 51 mins        █░░░░░░░░░░�
 Mmcc                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 Test                      1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
 ```
-<!--END_SECTION:waka-->
+<!--END_SECTION:devStats-->
 </details>
 <p align="right">
     <img src="https://tryhackme-badges.s3.amazonaws.com/nick22985.png" alt="TryHackMe">
