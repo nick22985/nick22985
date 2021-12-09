@@ -81,22 +81,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.JS-47A248.svg?&style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify.JS-47A248.svg?&style=flat-square&logo=vuetify&logoColor=white)
 </details>
-<details open="true">
-<summary>Stats</summary>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nick22985&count_private=true&show_icons=true&theme=tokyonight" alt="Nick's github stats" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick22985&layout=compact&theme=tokyonight" alt="Nick's Most Used Languages" />
-</a>
-<details>
-<summary>Wakatime</summary>
-<h4>This does not indicate how skilled in each language I am just how long I have been coding in it since installing WakaTime<h4/>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick22985&theme=tokyonight" alt="Wakatime Stats" />
-</a>
-</details>
-</details>
+
 <details open="false">
 <summary>More Stats</summary>
     
