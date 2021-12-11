@@ -11,7 +11,7 @@
     <a href="https://twitter.com/nick22985">
         <img align="left" alt="Nick22985 | Twitter" width="21px" src="./assets/social/twitter_circle.png" >
     </a>
-    <a href="https://discord.gg/eVWdctJnb7" >
+    <a href="https://discordapp.com/users/221602145462386688">
         <img align="left" alt="Nick's Discord" width="21px" src="./assets/social/discord-round.png" />
     </a>
         <a href="https://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw" >
