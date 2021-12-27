@@ -1,24 +1,17 @@
 ### Hi There 👋 How are you?
 
 ## <h4>About Me</h4>
+
 - 🔭 I’m currently working on Discord Bots, Chef App - Mobile Applications, Minecraft Console Client, Waterfall Paper Server
 - 🌱 I’m currently learning asp.net core Blazor, Electron Node JS, Spigot, Java, Foundation
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
-
 ## <h4>Social Media:</h4>
-<div>
-    <a href="https://twitter.com/nick22985">
-        <img align="left" alt="Nick22985 | Twitter" width="21px" src="./assets/social/twitter_circle.png" >
-    </a>
-    <a href="https://discordapp.com/users/221602145462386688">
-        <img align="left" alt="Nick's Discord" width="21px" src="./assets/social/discord-round.png" />
-    </a>
-        <a href="https://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw" >
-        <img align="left" alt="Youtube" width="21px" src="./assets/social/YouTube.png" />
-    </a>
-</div>
-<br>
+
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white&URL=https://discordapp.com/users/221602145462386688)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&URL=https://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&URL=https://twitter.com/nick22985)
+
 <hr/>
 
 <h4>Skills</h4>
@@ -80,12 +73,14 @@
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.JS-47A248.svg?&style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify.JS-47A248.svg?&style=flat-square&logo=vuetify&logoColor=white)
+
 </details>
 
 <details open="false">
 <summary>More Stats</summary>
-    
+
 <!--START_SECTION:devStats-->
+
 > 🏆 1088 Contributions in the Year of 2021
 >
 > 📦 145.46 KB Used in GitHub's Storage
@@ -97,13 +92,16 @@
 > 🔐 9 Private Repositories
 
 **I Mostly code in the 🌞 Daytime**
+
 ```text
 🌅 Morning                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   14.21%
 🌞 Daytime                211 commits         ████████░░░░░░░░░░░░░░░░░   34.88%
 🌆 Evening                192 commits         ███████░░░░░░░░░░░░░░░░░░   31.74%
 🌙 Night                  116 commits         ████░░░░░░░░░░░░░░░░░░░░░   19.17%
 ```
+
 🗓️ **I'm Most Productive on Friday**
+
 ```text
 Monday                    106 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52%
 Tuesday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   11.07%
@@ -113,7 +111,9 @@ Friday                    132 commits         █████░░░░░░�
 Saturday                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
 Sunday                    23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
 ```
+
 🚀 **This Week I spent My Time On**:
+
 ```text
 🕒 Time Zone: Australia/Brisbane
 
@@ -138,7 +138,9 @@ Unknown Hostname          18 hrs 27 mins      ████████░░░�
 💿 Operating System:
 Linux                     52 hrs 35 mins      █████████████████████████   100%
 ```
+
 ⌛ **I mostly coded in JavaScript**:
+
 ```text
 JavaScript                6 repos             ██████████░░░░░░░░░░░░░░░   42.86%
 Java                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
@@ -146,7 +148,9 @@ TypeScript                2 repos             ███░░░░░░░░�
 Vue                       1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 Jupyter Notebook          1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 ```
+
 📚 **Projects**:
+
 ```text
 DiscordBot                12 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   24.21%
 Chataffections            12 hrs 23 mins      █████░░░░░░░░░░░░░░░░░░░░   23.56%
@@ -158,6 +162,7 @@ SortTrelloData            2 hrs 22 mins       █░░░░░░░░░░�
 Dev-Stats                 1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96%
 Test                      1 hr 31 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89%
 ```
+
 <!--END_SECTION:devStats-->
 </details>
 <p align="right">
@@ -169,4 +174,3 @@ Test                      1 hr 31 mins        ░░░░░░░░░░░�
     <img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"/>
     <img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
 </p>
-
