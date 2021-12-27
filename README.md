@@ -8,9 +8,9 @@
 
 ## <h4>Social Media:</h4>
 
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white&URL=https://discordapp.com/users/221602145462386688)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&URL=https://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&URL=https://twitter.com/nick22985)
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white&link=https://discordapp.com/users/221602145462386688)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&URL=link://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/nick22985)
 
 <hr/>
 
