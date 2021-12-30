@@ -7,16 +7,22 @@
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
 <h4>Social Media:</h4>
-
-<a href="https://discordapp.com/users/221602145462386688">
-	<img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw">
-	<img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
-</a>
-<a href="https://twitter.com/nick22985">
-	<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
+<p align="center">
+	<a href="https://discordapp.com/users/221602145462386688">
+		<img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
+	</a>
+	<a href="https://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw">
+		<img src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
+	</a>
+	<a href="https://twitter.com/nick22985">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+	</a>
+</p>
+<p align="center">
+	<a href="https://discord.com/users/290131759159443457" target="_blank" rel="nofollow">
+		<img src="https://lanyard-profile-readme.vercel.app/api/221602145462386688" alt="Discord Presence" align="center">
+	</a>
+</p>
 
 <h4>Skills</h4>
 <h4>Languages, Frameworks, Tools & Abilities </h4>
