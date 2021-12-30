@@ -265,6 +265,5 @@ Uni                       49 mins             ░░░░░░░░░░░�
 <p align="right">
     <img src="https://www.codewars.com/users/nick22985/badges/micro"/>
     <img src="https://wakatime.com/badge/user/06ef56ec-e763-432c-a1cc-83e10de5b5a3.svg"/>
-    <img src="https://komarev.com/ghpvc/?username=nick22985&style=plastic&label=Views"/>
     <img src="https://badges.pufler.dev/visits/nick22985/nick22985?color=black&logo=github" />
 </p>
