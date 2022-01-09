@@ -2,8 +2,8 @@
 
 ## <h4>About Me</h4>
 
-- 🔭 I’m currently working on Discord Bots, Chef App - Mobile Applications, Minecraft Console Client, Waterfall Paper Server
-- 🌱 I’m currently learning asp.net core Blazor, Electron Node JS, Spigot, Java, Foundation
+- 🔭 I’m currently working on Discord Bots, Chef App - Mobile Applications, Minecraft Console Client
+- 🌱 I’m currently Electron, Node JS, Spigot, Java, Foundation, TypeScript, Reddis, Nest Js,
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
 <p align="center">
