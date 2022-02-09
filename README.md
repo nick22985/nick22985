@@ -51,12 +51,6 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </a>
 <a href="">
-	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/vuetify-1867C0?style=flat-square&logo=vuetify"/>
-</a>
-<a href="">
 	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </a>
 <a href="">
@@ -133,17 +127,40 @@
 </details>
 <details open="true">
 <summary>Learning</summary>
-
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
-![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white)
-
+	
+<a href="">
+	<img src="(https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
+</a>	
+<a href="">
+	<img src="https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
+</a>	
+<a href="">
+	<img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black"/>
+</a>		
+<a href="">
+	<img src="https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>
+</a>	
+<a href="">
+	<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat-square&logo=github-actions&logoColor=white"/>
+</a>	
+<a href="">
+	<img src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>
+</a>		
+<a href="">
+	<img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
+</a>	
+<a href="">
+	<img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
+</a>		
+<a href="">
+	<img src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
+</a>		
+<a href="">
+	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/vuetify-1867C0?style=flat-square&logo=vuetify"/>
+</a>
 <!--webpack-->
 <!--babel-->
 <!--Express-->
