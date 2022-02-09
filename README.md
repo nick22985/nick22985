@@ -127,7 +127,6 @@
 </details>
 <details open="true">
 <summary>Learning</summary>
-	
 <a href="">
 	<img src="(https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
 </a>	
