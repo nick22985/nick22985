@@ -51,9 +51,6 @@
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 </a>
 <a href="">
-	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</a>
-<a href="">
 	<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
 </a>
 <a href="">
@@ -160,6 +157,9 @@
 <a href="">
 	<img src="https://img.shields.io/badge/vuetify-1867C0?style=flat-square&logo=vuetify"/>
 </a>
+<a href="">
+	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</a>	
 <!--webpack-->
 <!--babel-->
 <!--Express-->
