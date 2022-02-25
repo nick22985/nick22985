@@ -16,6 +16,9 @@
 	<a href="https://twitter.com/nick22985">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 	</a>
+	<a href="https://www.npmjs.com/~nick22985">
+		<img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=NPM&logoColor=white"/>
+	</a>
 </p>
 <p align="center">
 	<a href="https://discord.com/users/221602145462386688" target="_blank" rel="nofollow">
