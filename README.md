@@ -27,7 +27,6 @@
 </p>
 
 
-<h4>Support Me</h4>
 <details open="true">
 <summary>Support Me</summary>
 
