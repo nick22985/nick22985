@@ -27,6 +27,20 @@
 </p>
 
 
+<h4>Support Me</h4>
+<details open="true">
+<summary>Support Me</summary>
+
+<a href="http://patreon.com/nick22985">
+	<img src="https://img.shields.io/badge/Patreon-FF424D.svg?&style=flat-square&logo=patreon&logoColor=white"/>
+</a>
+<a href="https://www.buymeacoffee.com/nick22985">
+	<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?&style=flat-square&logo=buymeacoffee&logoColor=white"/>
+</a>
+
+	
+</details>
+
 <h4>Skills</h4>
 <h4>Languages, Frameworks, Tools & Abilities </h4>
 <details open="true">
