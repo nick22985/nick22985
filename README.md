@@ -50,6 +50,9 @@
 	<img src="https://img.shields.io/badge/JavaScript-323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
 <a href="">
+	<img src="https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
+</a>
+<a href="">
 	<img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
 </a>
 <a href="">
@@ -143,9 +146,7 @@
 <a href="">
 	<img src="(https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
 </a>	
-<a href="">
-	<img src="https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
-</a>	
+
 <a href="">
 	<img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black"/>
 </a>		
