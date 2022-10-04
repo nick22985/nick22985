@@ -192,7 +192,7 @@
 	<img src="https://img.shields.io/badge/NesJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 </a>
 <a href="">
-	<img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=nextjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=next.js&logoColor=white"/>
 </a>
 <a href="">
 	<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
