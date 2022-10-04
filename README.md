@@ -78,6 +78,9 @@
 <a href="">
 	<img src="https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat-square&logo=Blazor&logoColor=white"/>
 </a>
+<a href="">
+	<img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=flat-square&logo=tailwindcss&logoColor=white"/>
+</a>
 
 <h6> Backend Development </h6>
 <a href="">
@@ -88,6 +91,14 @@
 </a>
 <a href="">
 	<img src="https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat-square&logo=graphql&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+</a>
+
+<h6>Testing</h6>
+<a href="">
+	<img src="https://img.shields.io/badge/cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
 </a>
 
 <h6> Databases </h6>
@@ -172,42 +183,26 @@
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </a>
 <a href="">
-	<img src="https://img.shields.io/badge/vuetify-1867C0?style=flat-square&logo=vuetify"/>
+	<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify"/>
 </a>
 <a href="">
-	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</a>	
-<!--webpack-->
-<!--babel-->
-<!--Express-->
-<!--NextJS-->
-<!--ReactNative-->
-<!-- AI/ML -->
-<!-- Tensorflow -->
-<!-- Reddis -->
-<!-- Cassendra -->
-<!-- sqlLite -->
-<!-- d3js -->
-<!-- chartjs -->
-
-<!-- 		Devops -->
-<!-- docker -->
-<!-- gcp -->
-<!-- kubernetes -->
-<!-- bash -->
-<!-- azure -->
-
-<!-- 			Backend as a serveice -->
-<!-- firebase -->
-
-<!-- 			Frameworks -->
-<!-- dotnet -->
-<!-- electron -->
-
-<!-- 			Testing -->
-<!-- Cypress -->
-<!-- jest -->
-<!-- mocha -->
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/NesJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=nextjs&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</a>
 
 </details>
 
