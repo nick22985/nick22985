@@ -3,7 +3,7 @@
 ## <h4>About Me</h4>
 
 - 🔭 I’m currently working on Discord Bots, Chef App - Mobile Applications, Minecraft Console Client, numerous other projects
-- 🌱 I’m currently learningSpigot, Java, Foundation, Reddis, Nest Js
+- 🌱 I’m currently learning Spigot, Java, Foundation, Reddis, Nest Js
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
 <p align="center">
