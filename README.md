@@ -208,6 +208,8 @@
 
 ![nick22985's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick22985&count_private=true&show_icons=true&theme=github_dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nick22985&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <details open="false">
 <summary>More Stats</summary>
 
