@@ -203,7 +203,9 @@
 <a href="">
 	<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </a>
-
+<a href="">
+	<img src="https://img.shields.io/badge/OpenJDK-#FFFFFF?style=flat-square&logo=OpenJDK&logoColor=white"/>
+</a>
 </details>
 
 ![nick22985's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick22985&count_private=true&show_icons=true&theme=github_dark)
