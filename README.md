@@ -214,6 +214,13 @@
 <details open="false">
 <summary>More Stats</summary>
 
+<img src="https://wakatime.com/share/@nick22985/e7a14e07-4d82-4eb2-a5eb-1c3cef708fe7.svg" height="400" width="600"></img>
+<img src="https://wakatime.com/share/@nick22985/ed1a7d86-01e3-4cf7-bd62-356413a3e91c.svg" height="400" width="600"></img>
+</details>
+
+<details open="false">
+<summary>More Stats</summary>
+
 <!--START_SECTION:devStats-->
 > 🏆 2349 Contributions in the Year of 2022
 >
