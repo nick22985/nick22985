@@ -49,6 +49,9 @@
 <a href="">
 	<img src="https://img.shields.io/badge/.Net-512BD4.svg?&style=flat-square&logo=.NET&logoColor=white"/>
 </a>
+<a href="">
+	<img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
+</a>	
 
 <h6> Frontend Development </h6>
 <a href="">
@@ -66,6 +69,21 @@
 <a href="">
 	<img src="https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=flat-square&logo=tailwindcss&logoColor=white"/>
 </a>
+<a href="">
+	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=next.js&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+</a>
 
 <h6> Backend Development </h6>
 <a href="">
@@ -79,6 +97,9 @@
 </a>
 <a href="">
 	<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 </a>
 
 <h6>Testing</h6>
@@ -139,48 +160,15 @@
 
 <h3>Learning</h3>
 <a href="">
-	<img src="(https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
-</a>	
-
-<a href="">
-	<img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black"/>
-</a>		
-<a href="">
-	<img src="https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/>
-</a>	
-<a href="">
 	<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat-square&logo=github-actions&logoColor=white"/>
 </a>	
-<a href="">
-	<img src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>
-</a>		
-<a href="">
-	<img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
-</a>	
+
 <a href="">
 	<img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
 </a>		
 <a href="">
 	<img src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
 </a>		
-<a href="">
-	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/NesJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=next.js&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-</a>
 <a href="">
 	<img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
 </a>
