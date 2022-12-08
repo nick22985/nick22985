@@ -211,14 +211,14 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nick22985&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<details open="false">
-<summary>More Stats</summary>
+<details>
+<summary>Wakatime</summary>
 
 <img src="https://wakatime.com/share/@nick22985/e7a14e07-4d82-4eb2-a5eb-1c3cef708fe7.svg" height="400" width="600"></img>
 <img src="https://wakatime.com/share/@nick22985/ed1a7d86-01e3-4cf7-bd62-356413a3e91c.svg" height="400" width="600"></img>
 </details>
 
-<details open="false">
+<details open="true">
 <summary>More Stats</summary>
 
 <!--START_SECTION:devStats-->
