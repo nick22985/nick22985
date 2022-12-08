@@ -26,25 +26,11 @@
 </p>
 
 
-<details open="true">
-<summary>Support Me</summary>
+<h2>Skills</h2>
 
-<a href="http://patreon.com/nick22985">
-	<img src="https://img.shields.io/badge/Patreon-FF424D.svg?&style=flat-square&logo=patreon&logoColor=white"/>
-</a>
-<a href="https://www.buymeacoffee.com/nick22985">
-	<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?&style=flat-square&logo=buymeacoffee&logoColor=white"/>
-</a>
+> #### Languages, Frameworks, Tools & Abilities
 
-	
-</details>
-
-<h4>Skills</h4>
-<h4>Languages, Frameworks, Tools & Abilities </h4>
-<details open="true">
-<summary>Main Knowledge</summary>
-
-<h6>Programming Languages</h6>
+<h3>Programming Languages</h3>
 <a href="">
 	<img src="https://img.shields.io/badge/JavaScript-323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 </a>
@@ -150,9 +136,8 @@
 ![RaspberryPi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square-square&logo=linux&logoColor=black) -->
 
-</details>
-<details open="true">
-<summary>Learning</summary>
+
+<h3>Learning</h3>
 <a href="">
 	<img src="(https://img.shields.io/badge/JAVA-007396.svg?&style=flat-square&logo=java&logoColor=white"/>
 </a>	
@@ -205,18 +190,34 @@
 <a href="">
 	<img src="https://img.shields.io/badge/OpenJDK-5585A3?style=flat-square&logo=OpenJDK&logoColor=white"/>
 </a>
-</details>
+
 
 ![nick22985's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick22985&count_private=true&show_icons=true&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nick22985&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+## Github Trophies
+> #### Expand to see my Github trophies 
 <details>
-<summary>Wakatime</summary>
-
-<img src="https://wakatime.com/share/@nick22985/e7a14e07-4d82-4eb2-a5eb-1c3cef708fe7.svg" height="400" width="600"></img>
-<img src="https://wakatime.com/share/@nick22985/ed1a7d86-01e3-4cf7-bd62-356413a3e91c.svg" height="400" width="600"></img>
-</details>
+  <summary> 
+    Github Trophies
+  </summary>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=nick22985&theme=algolia&column=4">
+  </p>
+  </details>
+  
+## Wakatime
+> #### Expand to see my wakatime data
+<details>
+  <summary> 
+   Wakatime
+  </summary>
+  <p>
+	<img src="https://wakatime.com/share/@nick22985/e7a14e07-4d82-4eb2-a5eb-1c3cef708fe7.svg" height="400" width="600"></img>
+	<img src="https://wakatime.com/share/@nick22985/ed1a7d86-01e3-4cf7-bd62-356413a3e91c.svg" height="400" width="600"></img>
+</p>
+ </details>
 
 <details open="true">
 <summary>More Stats</summary>
