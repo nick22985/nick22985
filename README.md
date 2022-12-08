@@ -204,7 +204,7 @@
 	<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </a>
 <a href="">
-	<img src="https://img.shields.io/badge/OpenJDK-#FFFFFF?style=flat-square&logo=OpenJDK&logoColor=white"/>
+	<img src="https://img.shields.io/badge/OpenJDK-5585A3?style=flat-square&logo=OpenJDK&logoColor=white"/>
 </a>
 </details>
 
