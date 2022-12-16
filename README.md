@@ -26,6 +26,15 @@
 </p>
 
 
+<h2>Education</h2>
+
+> #### 
+- Bachelor of Infomation Technology (Computer Science)
+- Infomation, Digital Media and Technology Level III
+
+
+
+
 <h2>Skills</h2>
 
 > #### Languages, Frameworks, Tools & Abilities
