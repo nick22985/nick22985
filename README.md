@@ -62,6 +62,9 @@
 <a href="">
 	<img src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
 </a>	
+<a href="">
+	<img src="https://img.shields.io/badge/OpenJDK-5585A3?style=flat-square&logo=OpenJDK&logoColor=white"/>
+</a>
 
 <h6> Frontend Development </h6>
 <a href="">
@@ -185,9 +188,7 @@
 <a href="">
 	<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </a>
-<a href="">
-	<img src="https://img.shields.io/badge/OpenJDK-5585A3?style=flat-square&logo=OpenJDK&logoColor=white"/>
-</a>
+
 
 ## Github Stats
 > #### Stats for github
