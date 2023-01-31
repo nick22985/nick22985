@@ -2,6 +2,7 @@
 
 ## <h4>About Me</h4>
 
+- Full Stack Developer
 - 🌱 I’m currently learning Spigot, Java, Bucket and lots more
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
