@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Spigot, Java, Bucket and lots more
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
-#### Projects
+##### Projects
 
 <p>yes the names suck I have yet to come up with some cool names</p>
 
