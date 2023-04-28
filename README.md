@@ -27,7 +27,7 @@
 	</a>
 </p>
 
-##### Projects
+##### Latest Projects
 
 - Discord Bots
 	- Trello bot - A bot that can query trello for cards and other data
