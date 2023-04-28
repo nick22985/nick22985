@@ -6,6 +6,17 @@
 - 🌱 I’m currently learning Spigot, Java, Bucket and lots more
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
+#### Projects
+<p>yes the names suck I have yet to come up with some cool names</p>
+- Discord Bots
+	- Trello bot - A bot that can query trello for cards and other data
+	- Manaapi (not offical) - Bot that queries the mana api for statistics and other things
+	- Manastatistics (not offical) - Website that queires the mana api for statistics and other things
+	- All in one discord bot - A fully fledge discord bot that does moderation, games, web dashboard and other things
+- NvimDiscordRPCLua - Yet another discord rpc client that works in pure lua for neovim 
+- MGCC (Minecraft Gui Console Client) - A minecraft console client that has a cool gui and is very easy to use
+- Many other projects here and there
+
 <p align="center">
 	<a href="https://discordapp.com/users/221602145462386688">
 		<img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
@@ -96,6 +107,9 @@
 </a>
 <a href="">
 	<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/Headless UI-47848F?style=flat-square&logo=headlessui&logoColor=white"/>
 </a>
 
 <h6> Backend Development </h6>
@@ -188,7 +202,21 @@
 <a href="">
 	<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </a>
-
+<a href="">
+	<img src="https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/PlanetScale-000000?style=flat-square&logo=planetscale&logoColor=white"/>
+</a>
+<a href="">
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</a>
 
 ## Github Stats
 > #### Stats for github
