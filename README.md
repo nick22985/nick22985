@@ -224,6 +224,9 @@
 <a href="">
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </a>
+<a href="">
+	<img src="https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+</a>
 
 ## Github Stats
 > #### Stats for github
