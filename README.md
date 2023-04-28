@@ -227,6 +227,9 @@
 <a href="">
 	<img src="https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
 </a>
+<a href="">
+	<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+</a>
 
 ## Github Stats
 > #### Stats for github
