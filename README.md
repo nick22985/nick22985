@@ -7,7 +7,9 @@
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
 #### Projects
+
 <p>yes the names suck I have yet to come up with some cool names</p>
+
 - Discord Bots
 	- Trello bot - A bot that can query trello for cards and other data
 	- Manaapi (not offical) - Bot that queries the mana api for statistics and other things
