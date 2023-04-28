@@ -6,20 +6,6 @@
 - 🌱 I’m currently learning Spigot, Java, Bucket and lots more
 - 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
-##### Projects
-
-<p>yes the names suck I have yet to come up with some cool names</p>
-
-- Discord Bots
-	- Trello bot - A bot that can query trello for cards and other data
-	- Manaapi (not offical) - Bot that queries the mana api for statistics and other things
-	- All in one discord bot - A fully fledge discord bot that does moderation, games, web dashboard and other things
-- Manastatistics (not offical) - Website that queires the mana api for statistics and other things
-- NvimDiscordRPCLua - Yet another discord rpc client that works in pure lua for neovim 
-- MGCC (Minecraft Gui Console Client) - A minecraft console client that has a cool gui and is very easy to use
-- ChatAffections - A java plugin based of chat feelings but with full database support
-- Many other projects here and there
-
 <p align="center">
 	<a href="https://discordapp.com/users/221602145462386688">
 		<img src="https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
@@ -34,11 +20,28 @@
 		<img src="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=NPM&logoColor=white"/>
 	</a>
 </p>
+
 <p align="center">
 	<a href="https://discord.com/users/221602145462386688" target="_blank" rel="nofollow">
 		<img src="https://lanyard-profile-readme.vercel.app/api/221602145462386688?hideStatus=true&animated=true&hideDiscrim=false" alt="Discord Presence" align="center">
 	</a>
 </p>
+
+##### Projects
+
+- Discord Bots
+	- Trello bot - A bot that can query trello for cards and other data
+	- Manaapi (not offical) - Bot that queries the mana api for statistics and other things
+	- All in one discord bot - A fully fledge discord bot that does moderation, games, web dashboard and other things
+- Manastatistics (not offical) - Website that queires the mana api for statistics and other things
+- NvimDiscordRPCLua - Yet another discord rpc client that works in pure lua for neovim 
+- MGCC (Minecraft Gui Console Client) - A minecraft console client that has a cool gui and is very easy to use
+- ChatAffections - A java plugin based of chat feelings but with full database support
+- Many other projects here and there
+
+<details>
+<p>Yes the names suck I have yet to come up with some cool names</p>
+</details>
 
 
 <h2>Education</h2>
