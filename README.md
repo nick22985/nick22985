@@ -17,6 +17,7 @@
 - Manastatistics (not offical) - Website that queires the mana api for statistics and other things
 - NvimDiscordRPCLua - Yet another discord rpc client that works in pure lua for neovim 
 - MGCC (Minecraft Gui Console Client) - A minecraft console client that has a cool gui and is very easy to use
+- ChatAffections - A java plugin based of chat feelings but with full database support
 - Many other projects here and there
 
 <p align="center">
