@@ -40,6 +40,7 @@
 - Many other projects here and there
 
 <details>
+	<summary></summary>
 <p>Yes the names suck I have yet to come up with some cool names</p>
 </details>
 
