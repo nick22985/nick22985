@@ -27,13 +27,13 @@
 	</a>
 </p>
 
-##### Latest Projects
+#### Latest Projects
 
 - Discord Bots
 	- Trello bot - A bot that can query trello for cards and other data
 	- Manaapi (not offical) - Bot that queries the mana api for statistics and other things
 	- All in one discord bot - A fully fledge discord bot that does moderation, games, web dashboard and other things
-- Manastatistics (not offical) - Website that queires the mana api for statistics and other things
+- Manastatistics (not offical) - Website that queries the mana api for statistics and other things
 - NvimDiscordRPCLua - Yet another discord rpc client that works in pure lua for neovim 
 - MGCC (Minecraft Gui Console Client) - A minecraft console client that has a cool gui and is very easy to use
 - ChatAffections - A java plugin based of chat feelings but with full database support
