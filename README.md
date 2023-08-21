@@ -31,8 +31,8 @@
 
 - Discord Bots
 	- Trello bot - A bot that can query trello for cards and other data
-	- Manaapi (not offical) - Bot that queries the mana api for statistics and other things
-	- All in one discord bot - A fully fledge discord bot that does moderation, games, web dashboard and other things
+	- Manaapi (not offical) - Bot that queries the mana api for statistics and other things [ManaApi Invite](https://discord.com/api/oauth2/authorize?client_id=701852927035310171&permissions=0&scope=bot%20applications.commands)
+	- All in one discord bot - A fully fledge discord bot that does moderation, games, web dashboard and other things 
 - Manastatistics (not offical) - Website that queries the mana api for statistics and other things
 - NvimDiscordRPCLua - Yet another discord rpc client that works in pure lua for neovim 
 - MGCC (Minecraft Gui Console Client) - A minecraft console client that has a cool gui and is very easy to use
