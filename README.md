@@ -235,7 +235,8 @@
 > #### Stats for github
 <img src="https://github-readme-stats.vercel.app/api?username=nick22985&count_private=true&show_icons=true&theme=github_dark"></img>
 <img src="https://streak-stats.demolab.com/?user=Nick22985&theme=dark&hide_border=true"></img>
-
+<img src="https://api.githubtrends.io/user/svg/nick22985/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark"></img>
+<img src="https://api.githubtrends.io/user/svg/nick22985/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark"></img>
 ## Github Trophies
 > #### Expand to see my Github trophies 
 <details>
