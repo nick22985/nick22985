@@ -240,6 +240,8 @@
 <br>
 <img src="https://api.githubtrends.io/user/svg/nick22985/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark"></img>
 <img src="https://api.githubtrends.io/user/svg/nick22985/langs?time_range=one_year&use_percent=True&include_private=True&theme=dark"></img>
+
+
 ## Github Trophies
 > #### Expand to see my Github trophies 
 <details>
