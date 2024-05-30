@@ -103,14 +103,11 @@
 
 <h6> Databases </h6>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
 
 ![MySql][shield-mysql]
 ![SQLite][shield-sqlite]
 ![MongoDB][shield-mongodb]
-![PostgreSQL](shield-postgressql)
+<!-- ![PostgreSQL](shield-postgressql) -->
 
 
 
