@@ -27,7 +27,7 @@
 
 
 #### Latest Projects
-
+- [Mana Stats](https://mana-stats.com/) - Displays 3d Models of svas, user stats and various other things
 - Discord Bots
 	- Trello bot - A bot that can query trello for cards and other data
 	- Manaapi (not offical) - Bot that queries the mana api for statistics and other things [ManaApi Invite](https://discord.com/api/oauth2/authorize?client_id=701852927035310171&permissions=0&scope=bot%20applications.commands)
