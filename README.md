@@ -31,7 +31,6 @@
 - Discord Bots
 	- Trello bot - A bot that can query trello for cards and other data
 	- Manaapi - Bot that queries the mana api for statistics and other things [ManaApi Invite](https://discord.com/api/oauth2/authorize?client_id=701852927035310171&permissions=0&scope=bot%20applications.commands)
-	- All in one discord bot - A fully fledge discord bot that does moderation, games, web dashboard and other things 
 - Many other projects here and there
 
 <details>
