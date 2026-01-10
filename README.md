@@ -61,7 +61,6 @@
 ![csharp][shield-csharp]
 ![.net][shield-.net]
 ![jquery][shield-jquery]
-![open-jdk][shield-openjdk]
 
 
 
@@ -175,6 +174,8 @@
 <a href="">
 	<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </a>
+
+![open-jdk][shield-openjdk]
 
 ## Github Stats
 > #### Stats for github
