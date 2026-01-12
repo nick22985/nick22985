@@ -176,25 +176,6 @@
 </a>
 
 ![open-jdk][shield-openjdk]
-
-## Github Stats
-> #### Stats for github
-<img src="https://github-readme-stats.vercel.app/api?username=nick22985&count_private=true&show_icons=true&theme=github_dark"></img>
-
-<!--<img src="https://streak-stats.demolab.com/?user=Nick22985&theme=dark&hide_border=true"></img> -->
-
-
-
-## Github Trophies
-> #### Expand to see my Github trophies 
-<details>
-  <summary> 
-    Github Trophies
-  </summary>
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=nick22985&theme=algolia&column=4">
-  </p>
-  </details>
   
 ## Wakatime
 > #### Expand to see my wakatime data
