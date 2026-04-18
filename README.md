@@ -176,24 +176,6 @@
 </a>
 
 ![open-jdk][shield-openjdk]
-  
-## Wakatime
-> #### Expand to see my wakatime data
-<details>
-  <summary> 
-   Wakatime
-  </summary>
-  <p>
-	<img src="https://wakatime.com/share/@nick22985/e7a14e07-4d82-4eb2-a5eb-1c3cef708fe7.svg" height="400" width="600"></img>
-	<img src="https://wakatime.com/share/@nick22985/ed1a7d86-01e3-4cf7-bd62-356413a3e91c.svg" height="400" width="600"></img>
-</p>
- </details>
-
-<p align="right">
-    <img src="https://www.codewars.com/users/nick22985/badges/micro"/>
-    <img src="https://wakatime.com/badge/user/06ef56ec-e763-432c-a1cc-83e10de5b5a3.svg"/>
-</p>
-
 
 [shield-github]: https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat-square&logo=github&logoColor=white
 [shield-git]: https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat-square&logo=git&logoColor=white
