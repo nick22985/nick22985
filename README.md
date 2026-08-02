@@ -1,21 +1,16 @@
-### Hi There 👋 How are you?
-
-## <h4>About Me</h4>
-
-- Full Stack Developer
-<!--- 🌱 I’m currently learning Spigot, Java, Bucket and lots more !-->
-- 💬 Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
+<p align="center">
+	<b>Full stack developer.</b> Scalable systems, developer tools and infrastructure.
+</p>
 
 <div align="center">
 
+[![Website][shield-website]][website]
 [![Discord][shield-discord]][discord-profile]
-[![Youtube][shield-youtube]][youtube-channel]
 [![Twitter][shield-twitter]][twitter-url]
 [![npm][shield-npm]][npm-url]
+[![Youtube][shield-youtube]][youtube-channel]
 
 </div>
-
-
 
 <div align="center">
 
@@ -23,210 +18,184 @@
 
 </div>
 
+## About Me
 
+- All-around developer: frontend, backend, databases and DevOps
+- Day to day I'm mostly in JavaScript/TypeScript and Java
+- Run my own Linux infrastructure (Docker, Nginx, CI/CD)
+- Portfolio and full project list: **[nick22985.com][website]**
+- Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
 
+## What I'm Building
 
-#### Latest Projects
-- [Mana Stats](https://mana-stats.com/) - Displays 3d Models of svas, user stats and various other things
-- Discord Bots
-	- Trello bot - A bot that can query trello for cards and other data
-	- Manaapi - Bot that queries the mana api for statistics and other things [ManaApi Invite](https://discord.com/api/oauth2/authorize?client_id=701852927035310171&permissions=0&scope=bot%20applications.commands)
-- Many other projects here and there
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [scrnly](https://scrnly.xyz/) | Cross-platform screenshot & screen recorder with annotation, video editing and ShareX-compatible uploads | Rust, Tauri, React, FFmpeg |
+| [sbx](https://github.com/nick22985/sbx) | Sandboxed Docker environments that run projects in isolated containers to cut supply-chain exposure | Rust, Docker |
+| [ijfmt](https://github.com/nick22985) | Fast Java formatter that reads your IntelliJ IDEA config so CLI output matches the IDE | Rust, tree-sitter |
+| [ijdocs.nvim](https://github.com/nick22985/ijdocs.nvim) | IntelliJ-style Javadoc hover for Neovim, backed by a Rust docs server | Rust, Lua |
+| [snd](https://github.com/nick22985/snd) | `scp` wrapper with saved server and path presets | Rust, clap |
+| [Mana Stats](https://mana-stats.com/) | ManaCube stats platform with a custom renderer turning Minecraft models into interactive 3D scenes | TanStack Start, Three.js, Rust |
 
 <details>
-	<summary></summary>
-<p>Yes the names suck I have yet to come up with some cool names</p>
+<summary>Other things I maintain</summary>
+
+**Bots, apps & odds and ends**
+
+- Discord Bot Core - Rust framework for building Discord bots (BotBuilder, type-keyed DI, unified command/event/component dispatch)
+- Trello Bot - full Trello board management from inside Discord (TypeScript, Discord.js, MongoDB, Redis)
+- ScaleLink - desktop client for the Millennium Mechatronics MI-104 weighing indicator, RS-232 with CSV logging (Rust, Tauri)
+- [nick22985.github.io](https://github.com/nick22985/nick22985.github.io) - the source for [nick22985.com][website]
+
+**Libraries & tools**
+
+- [authy-decryptor](https://github.com/nick22985/authy-decryptor) - decrypt Authy backups and migrate to another 2FA manager ([npm](https://www.npmjs.com/package/@nick22985/authy-decryptor))
+- [wakatime-api](https://github.com/nick22985/wakatime-api) - fully typed Wakatime API wrapper with caching and rate limiting ([npm](https://www.npmjs.com/package/@nick22985/wakatime-api))
+- [ManacubeApi](https://github.com/nick22985/ManacubeApi) - typed wrapper around the ManaCube API
+- [Dev-Stats](https://github.com/nick22985/Dev-Stats) - GitHub Action that writes Wakatime + GitHub stats into your profile README
+
+**Editor & shell**
+
+- [solidtime.nvim](https://github.com/nick22985/solidtime.nvim) - Solidtime time tracking in Neovim with git-project detection and idle handling
+- [dotfiles](https://github.com/nick22985/dotfiles) + [init.lua](https://github.com/nick22985/init.lua) - my Linux, Neovim and terminal setup
+
+Plus a pile of private and work repos (internal tooling, automation and server infrastructure) that don't show up here.
+
 </details>
-
-
-<h2>Education</h2>
-
-> #### 
-- Bachelor of Infomation Technology (Computer Science)
-- Infomation, Digital Media and Technology Level III
-
-
-
 
 ## Skills
 
-> #### Languages, Frameworks, Tools & Abilities
+<h6>Languages</h6>
 
-### Programming Languages
-
-![javascript][shield-javascript]
+![java][shield-java]
 ![typescript][shield-typescript]
+![javascript][shield-javascript]
+![rust][shield-rust]
 ![python][shield-python]
-![c][shield-c]
 ![csharp][shield-csharp]
-![.net][shield-.net]
-![jquery][shield-jquery]
+![lua][shield-lua]
+![c][shield-c]
 
-
-
-<h6> Frontend Development </h6>
+<h6>Frontend</h6>
 
 ![react][shield-react]
-![css3][shield-css3]
-![html5][shield-html5]
-![blazor][shield-blazor]
-![tailwind][shield-tailwind]
-![vuejs][shield-vuejs]
-![vuetify][shield-vuetify]
-![bootstrap][shield-bootstrap]
+![tanstack][shield-tanstack]
 ![nextjs][shield-nextjs]
-![electron][shield-electron]
-![headlessui][shield-headlessui]
+![vuejs][shield-vuejs]
+![angular][shield-angular]
+![tailwind][shield-tailwind]
+![tauri][shield-tauri]
+![html5][shield-html5]
+![css3][shield-css3]
 
+<h6>Backend</h6>
 
-
-<h6> Backend Development </h6>
-
+![spring][shield-spring]
+![springboot][shield-springboot]
+![maven][shield-maven]
+![gradle][shield-gradle]
 ![nodejs][shield-nodejs]
-![nginx][shield-nginx]
-![graphql][shield-graphql]
+![bun][shield-bun]
 ![express][shield-express]
 ![nestjs][shield-nestjs]
+![graphql][shield-graphql]
+![.net][shield-.net]
 
+<h6>Data</h6>
 
-
-<h6>Testing</h6>
-
-![cyress][shield-cypress]
-
-
-<h6> Databases </h6>
-
-
+![PostgreSQL][shield-postgresql]
 ![MySql][shield-mysql]
 ![SQLite][shield-sqlite]
 ![MongoDB][shield-mongodb]
-<!-- ![PostgreSQL](shield-postgressql) -->
+![Redis][shield-redis]
+![PlanetScale][shield-planetscale]
+![Drizzle][shield-drizzle]
 
+<h6>DevOps</h6>
 
+![linux][shield-linux]
+![docker][shield-docker]
+![nginx][shield-nginx]
+![githubactions][shield-githubactions]
+![webpack][shield-webpack]
 
-<h6>Software</h6>
+<h6>Testing</h6>
 
-![Postman][shield-postman]
-![AdobeXD][shield-adobexd]
-![AdobeCreativeCloud][shield-adobecreativecloud]
-![NODERED][shield-nodered]
-![Wordpress][shield-wordpress]
-![NPM][shield-npm-flat-square]
-![WooCommerce][shield-woocommerce]
+![playwright][shield-playwright]
+![vitest][shield-vitest]
+![jest][shield-jest]
+![cypress][shield-cypress]
 
+<h6>Editors & Version Control</h6>
 
-
-<h6> Editors </h6>
-
+![neovim][shield-neovim]
 ![vscode][shield-vscode]
-![visualstuido][shield-visualstudio]
 ![intellij][shield-intellij]
-
-
-
-<h6>Version Control</h6>
-
-![github][shield-github]
 ![git][shield-git]
-![bitbucket][shield-bitbucket]
+![github][shield-github]
 ![gitlab][shield-gitlab]
 
+## Education
 
+- Bachelor of Information Technology (Computer Science)
+- Information, Digital Media and Technology Level III
 
-
-
-<h3>Learning</h3>
-<a href="">
-	<img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat-square&logo=github-actions&logoColor=white"/>
-</a>	
-
-<a href="">
-	<img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
-</a>		
-<a href="">
-	<img src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
-</a>		
-<a href="">
-	<img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/PlanetScale-000000?style=flat-square&logo=planetscale&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-</a>
-
-![open-jdk][shield-openjdk]
-
+[shield-website]: https://img.shields.io/badge/nick22985.com-000000.svg?&logo=vercel&logoColor=white
 [shield-github]: https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat-square&logo=github&logoColor=white
 [shield-git]: https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat-square&logo=git&logoColor=white
-[shield-bitbucket]: https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket
 [shield-gitlab]: https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white
 [shield-vscode]: https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat-square&logo=visual-studio-code
-[shield-visualstudio]: https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=visual-studio
 [shield-intellij]: https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat-square&logo=intellij-idea
-[shield-postman]: https://img.shields.io/badge/Postman-FF6C37.svg?&style=flat-square&logo=postman&logoColor=white
-[shield-adobexd]: https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?&style=flat-square&logo=Adobe-XD&logoColor=black
-[shield-adobecreativecloud]: https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?&style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white
-[shield-nodered]: https://img.shields.io/badge/node%20red-8F0000.svg?&style=flat-square&logo=node-red&logoColor=white
-[shield-wordpress]: https://img.shields.io/badge/Wordpress-21759B.svg?&style=flat-square&logo=wordpress&logoColor=white
-[shield-woocommerce]: https://img.shields.io/badge/WooCommerce-96588A.svg?&style=flat-square&logo=WooCommerce&logoColor=white
+[shield-neovim]: https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white
 [shield-mysql]: https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white
 [shield-sqlite]: https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white
 [shield-mongodb]: https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white
-[shield-postgressql]: https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat-square&logo=postgresql&logoColor=white
+[shield-postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white
+[shield-redis]: https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white
+[shield-drizzle]: https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black
+[shield-planetscale]: https://img.shields.io/badge/PlanetScale-000000?style=flat-square&logo=planetscale&logoColor=white
+[shield-webpack]: https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black
 [shield-cypress]: https://img.shields.io/badge/cypress-17202C?style=flat-square&logo=cypress&logoColor=white
+[shield-playwright]: https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white
+[shield-vitest]: https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white
+[shield-jest]: https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white
+[shield-spring]: https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white
+[shield-springboot]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white
+[shield-maven]: https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white
+[shield-gradle]: https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white
 [shield-nodejs]: https://img.shields.io/badge/NODEJS-339933.svg?&style=flat-square&logo=node.js&logoColor=white
+[shield-bun]: https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white
 [shield-nginx]: https://img.shields.io/badge/NGINX-269539.svg?&style=flat-square&logo=nginx&logoColor=white
 [shield-graphql]: https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat-square&logo=graphql&logoColor=white
 [shield-express]: https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white
 [shield-nestjs]: https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white
 [shield-vuejs]: https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white
+[shield-angular]: https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white
 [shield-tailwind]: https://img.shields.io/badge/Tailwind-06B6D4.svg?&style=flat-square&logo=tailwindcss&logoColor=white
-[shield-react]: https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white
+[shield-tanstack]: https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white
+[shield-tauri]: https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white
+[shield-react]: https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black
 [shield-css3]: https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white
 [shield-html5]: https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white
-[shield-blazor]: https://img.shields.io/badge/Blazor-512BD4.svg?&style=flat-square&logo=Blazor&logoColor=white
-[shield-vuetify]: https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify
-[shield-bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white
 [shield-nextjs]: https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=next.js&logoColor=white
-[shield-electron]: https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white
-[shield-headlessui]: https://img.shields.io/badge/Headless%20UI-47848F?style=flat-square&logo=headlessui&logoColor=white
-[shield-discord-flat-square]: https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Discord&logoColor=white
-[shield-discord]: https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=Discord&logoColor=white
+[shield-linux]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
+[shield-docker]: https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+[shield-githubactions]: https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=github-actions&logoColor=white
+[shield-discord]: https://img.shields.io/badge/Discord-5865F2.svg?&logo=Discord&logoColor=white
 [shield-youtube]: https://img.shields.io/badge/YouTube-FF0000.svg?&logo=YouTube&logoColor=white
 [shield-twitter]: https://img.shields.io/badge/Twitter-1DA1F2.svg?&logo=Twitter&logoColor=white
 [shield-npm]: https://img.shields.io/badge/npm-CB3837.svg?&logo=NPM&logoColor=white
-[shield-npm-flat-square]: https://img.shields.io/badge/npm-CB3837.svg?&style=flat-square&logo=NPM&logoColor=white
+[shield-rust]: https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white
 [shield-javascript]: https://img.shields.io/badge/JavaScript-323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E
 [shield-typescript]: https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white
 [shield-python]: https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white
+[shield-java]: https://img.shields.io/badge/Java-5585A3?style=flat-square&logo=openjdk&logoColor=white
+[shield-lua]: https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white
 [shield-c]: https://img.shields.io/badge/C-3776AB.svg?&style=flat-square&logo=C&logoColor=white
 [shield-csharp]: https://img.shields.io/badge/C%23-239120.svg?&style=flat-square&logo=C-Sharp&logoColor=white
 [shield-.net]: https://img.shields.io/badge/.Net-512BD4.svg?&style=flat-square&logo=.NET&logoColor=white
-[shield-jquery]: https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white
-[shield-openjdk]: https://img.shields.io/badge/OpenJDK-5585A3?style=flat-square&logo=OpenJDK&logoColor=white
 
-
+[website]: https://nick22985.com
 [youtube-channel]: https://www.youtube.com/channel/UChZvyaTJSq0PweGmTpjPjRw
 [discord-profile]: https://discordapp.com/users/221602145462386688
 [twitter-url]: https://twitter.com/nick22985
