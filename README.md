@@ -45,7 +45,6 @@
 - Discord Bot Core - Rust framework for building Discord bots (BotBuilder, type-keyed DI, unified command/event/component dispatch)
 - Trello Bot - full Trello board management from inside Discord (TypeScript, Discord.js, MongoDB, Redis)
 - ScaleLink - desktop client for the Millennium Mechatronics MI-104 weighing indicator, RS-232 with CSV logging (Rust, Tauri)
-- [nick22985.github.io](https://github.com/nick22985/nick22985.github.io) - the source for [nick22985.com][website]
 
 **Libraries & tools**
 
