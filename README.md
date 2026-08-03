@@ -24,7 +24,7 @@
 - Day to day I'm mostly in JavaScript/TypeScript and Java
 - Run my own Linux infrastructure (Docker, Nginx, CI/CD)
 - Portfolio and full project list: **[nick22985.com][website]**
-- Ask me about anything [here](https://github.com/nick22985/nick22985/issues)
+- Ask me about anything [here](https://nick22985.com/contact)
 
 ## What I'm Building
 
@@ -140,7 +140,7 @@ Plus a pile of private and work repos (internal tooling, automation and server i
 - Bachelor of Information Technology (Computer Science)
 - Information, Digital Media and Technology Level III
 
-[shield-website]: https://img.shields.io/badge/nick22985.com-000000.svg?&logo=vercel&logoColor=white
+[shield-website]: https://img.shields.io/badge/%F0%9F%8C%90-nick22985.com-000000.svg?labelColor=000000
 [shield-github]: https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat-square&logo=github&logoColor=white
 [shield-git]: https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat-square&logo=git&logoColor=white
 [shield-gitlab]: https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white
