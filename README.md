@@ -31,7 +31,8 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [scrnly](https://scrnly.xyz/) | Cross-platform screenshot & screen recorder with annotation, video editing and ShareX-compatible uploads | Rust, Tauri, React, FFmpeg |
-| [sbx](https://github.com/nick22985/sbx) | Sandboxed Docker environments that run projects in isolated containers to cut supply-chain exposure | Rust, Docker |
+| [sbx](https://nick22985.com/projects/sbx) | Sandboxed Docker dev environments plus an AI agent fleet: a deterministic scheduler turns a task queue into verified, signed commits across machines | Rust, Docker, TanStack Start |
+| [mcbot](https://nick22985.com/mcbot) | Self-hostable Minecraft bots (Java + Bedrock): Tauri desktop client, headless daemon and web hub, on my own from-scratch protocol stack | Rust, Tauri, TanStack Start |
 | [ijfmt](https://github.com/nick22985) | Fast Java formatter that reads your IntelliJ IDEA config so CLI output matches the IDE | Rust, tree-sitter |
 | [ijdocs.nvim](https://github.com/nick22985/ijdocs.nvim) | IntelliJ-style Javadoc hover for Neovim, backed by a Rust docs server | Rust, Lua |
 | [snd](https://github.com/nick22985/snd) | `scp` wrapper with saved server and path presets | Rust, clap |
