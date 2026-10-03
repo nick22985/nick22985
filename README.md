@@ -33,6 +33,7 @@
 | [scrnly](https://scrnly.xyz/) | Cross-platform screenshot & screen recorder with annotation, video editing and ShareX-compatible uploads | Rust, Tauri, React, FFmpeg |
 | [sbx](https://nick22985.com/projects/sbx) | Sandboxed Docker dev environments plus an AI agent fleet: a deterministic scheduler turns a task queue into verified, signed commits across machines | Rust, Docker, TanStack Start |
 | [mcbot](https://nick22985.com/mcbot) | Self-hostable Minecraft bots (Java + Bedrock): Tauri desktop client, headless daemon and web hub, on my own from-scratch protocol stack | Rust, Tauri, TanStack Start |
+| [Java Profiler](https://nick22985.com/projects/java-profiler) | Java profiler and debugger written from scratch: native JVMTI agent with its own HotSpot stack walkers (Java 8 to 25), crash-safe recordings, flame graphs and optional Minecraft server plugins | Rust, JVMTI, React |
 | [ijfmt](https://github.com/nick22985) | Fast Java formatter that reads your IntelliJ IDEA config so CLI output matches the IDE | Rust, tree-sitter |
 | [ijdocs.nvim](https://github.com/nick22985/ijdocs.nvim) | IntelliJ-style Javadoc hover for Neovim, backed by a Rust docs server | Rust, Lua |
 | [snd](https://github.com/nick22985/snd) | `scp` wrapper with saved server and path presets | Rust, clap |
